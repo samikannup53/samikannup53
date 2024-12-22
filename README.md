@@ -10,10 +10,9 @@
 - 📫 How to reach me **samikannup53@gmail.com**
 
 - ⚡ Fun Fact : **Trust the Process !!**
-  
+<br>
 
 <h2>Languages and Tools:</h2>
-<br>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -24,7 +23,6 @@
 <br>
 
 <h2><b>My Technical & All Over Skills⚡</b> </h2>
-<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,7 +38,6 @@
 
 
 <h2> <b>My GitHub Status 👨‍💻 </b> </h2>
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=samikannup53&show_icons=true&locale=en&layout=compact)
 
