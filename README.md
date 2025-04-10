@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, Welcome All..💝</h1>
-<h3 align="center">A Passionate M-E-R-N Stock Developer</h3>
+<h1 align="center">Hi 👋,  This is $ami💝</h1>
+<h3 align="center">A Passionate M-E-R-N Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samikannup53&label=Profile%20views&color=0e75b6&style=flat" alt="samikannup53" /> </p>
 
-- 💻 I’m currently working on **Fullstack developement(MERN)**
+- 💻 I’m Passionate about **Fullstack Developement (M-E-R-N)**
 
 - 🌱 I’m currently learning **Backend**
 
