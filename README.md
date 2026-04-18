@@ -11,7 +11,7 @@
 
 - 💻 Passionate about **Full-Stack Development (MERN)**
 - 🌱 Currently strengthening my **Backend skills (Node.js, Express, MongoDB)**
-- 📫 Reach me at **samikannup53@gmail.com**
+- 📫 Reach me at **samikannu.dev@gmail.com**
 - ⚡ Fun Fact: **Trust the Process 🚀**
 
 <br>
